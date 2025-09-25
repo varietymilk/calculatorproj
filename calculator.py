@@ -29,7 +29,7 @@ if __name__ == '__main__':
 def calculate(int1, int2):
     number1 = int(int1)
     number2 = int(int2)
-    print('what operation\n1)addition\n2)subtraction\n3)division\n4)multiplication')
+    print('what operation\n1)addition\n2)subtraction\n3)division\n4)multiplication')    
     
     while True:
         operation = int(input("Select number 1-4: "))
